@@ -1,0 +1,47 @@
+  
+   @media screen and (max-width: 1920px) {
+    #wrapper{
+        width: 100%;
+    }
+    #header{
+        width: 100%;
+    }
+    #container{
+        width: 100%
+    }
+    #content-carousel{
+        width: 100%;
+    }
+   }
+   @media screen and (max-width: 1320px) {
+    #wrapper{
+        width: 100%;
+    }
+    #header{
+        width: 100%;
+    }
+    #container{
+        width: 100%
+    }
+    #content-carousel{
+        width: 100%;
+    }
+   }
+  /* Ipad ngang(1024 x 768) */
+  @media screen and (max-width: 1024px) {
+
+  }
+
+  /* Ipad dọc(768 x 1024) */
+  @media screen and (max-width: 768px) {}
+
+  /* Table nhỏ(480 x 640) */
+  @media screen and (max-width: 480px) {}
+
+  /* Iphone(480 x 640) */
+  @media screen and (max-width: 320px) {
+    
+  }
+
+  /* Smart phone nhỏ */
+  @media screen and(max-width: 240px) {}
